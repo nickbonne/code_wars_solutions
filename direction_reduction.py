@@ -4,7 +4,7 @@
 def dirReduc(arr):
 
     final = []
-    # compass dict
+
     c = {}
     c['NORTH'] = 'SOUTH'
     c['SOUTH'] = 'NORTH'
